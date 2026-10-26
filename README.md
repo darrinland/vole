@@ -6,6 +6,8 @@ Pick a folder. Vole scans every file inside it and draws the results as a sunbur
 
 Vole only reads your files. It never moves, changes, or deletes anything.
 
+**To use Vole, follow [INSTALL.md](INSTALL.md).** The steps below are for building from source.
+
 ## Features
 
 - Sunburst chart of folder sizes, five levels deep.
